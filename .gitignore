@@ -2,3 +2,5 @@
 *.png
 *.csv
 *.nii
+*.html
+*.json
