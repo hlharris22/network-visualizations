@@ -4,3 +4,6 @@
 *.nii
 *.html
 *.json
+*.shx
+*.shp
+*.dbf
